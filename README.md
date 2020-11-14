@@ -1,7 +1,5 @@
-## NAMA BOT
-BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
-
-
+BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX ## NAMA BOT
+</s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </ s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>  </s>   </s>   </s>   </s>   </s> orang </s>
 
 
 
@@ -12,12 +10,12 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```bash
 > download termux
 > buka
-> pkg install git
-> pkg install ffmpeg
-> pkg install nodejs
-> apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> pkg instal git
+> pkg instal nodejs
+> git clone https://github.com/bambanksera/niinii
+it </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> orang </s> klong
+> pembaruan apt && peningkatan apt
+> cd niinii
 > bash install.sh
 > node index.js
 ```
@@ -43,9 +41,9 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | QURAN                             |
 |       ✅       | KAMING SUN                        |
 
-ket : ✅ : aktif
-
-
+ket: ✅: aktif
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
 
 
 ## THANKS TO
