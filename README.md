@@ -1,4 +1,4 @@
-## niinii bot
+## bot niinii
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX 
 </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </ s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>  </s>   </s>   </s>   </s>   </s> orang </s>
 
