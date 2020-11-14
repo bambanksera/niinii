@@ -1,4 +1,5 @@
-BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX ## NAMA BOT
+## niinii bot
+BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX 
 </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </ s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>  </s>   </s>   </s>   </s>   </s> orang </s>
 
 
@@ -13,11 +14,11 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX ## NAMA BOT
 > pkg instal git
 > pkg instal nodejs
 > git clone https://github.com/bambanksera/niinii
-it </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> orang </s> klong
 > pembaruan apt && peningkatan apt
 > cd niinii
 > bash install.sh
 > node index.js
+> Ingat ya coeg ini caranya gak lengkap
 ```
 
 
